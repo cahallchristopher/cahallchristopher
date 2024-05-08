@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christopher Cahall</h1>
 <h3 align="center">Cybersecurity Enthusiast | Aspiring SOC Analyst | Tech Innovator</h3>
 
-![Banner](https://yourimageurl.com/banner.jpg)
+![Banner](https://raw.githubusercontent.com/cahallchristopher/images/djangoweb/Blue%20And%20Yellow%20Modern%20Cybersecurity%20Specialist%20LinkedIn%20Banner.png)
+
 
 Fresh from the academic fields of cybersecurity, I am a budding professional with a robust foundational understanding of IT security, networking, and system administration. My journey in cybersecurity is fueled by a strong passion for technology and a keen interest in the evolving landscape of cyber threats.
 
