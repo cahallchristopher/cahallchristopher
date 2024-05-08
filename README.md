@@ -28,6 +28,6 @@ I'm currently working on several projects aimed at enhancing system security and
 
 ## 📫 Connect with me
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/christophercahall/?msgControlName=view_message_button&msgConversationId=2-MzE5NWE4NmQtY2RhNC00MzViLThmMGYtY2NkNTQ2MzNkYmRjXzAxMA%3D%3D&msgOverlay=true)
-- **Email:** your.email@example.com
+- **Email:** ccahall32@gmail.com
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
