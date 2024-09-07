@@ -89,7 +89,7 @@ Fresh from the academic fields of cybersecurity, I am a budding professional wit
 
 
 [![Creating VLANs in pfSense](https://ytcards.demolab.com/?id=Te0Y9fvflks&title=Creating+VLANs+in+pfSense&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=363 "Creating VLANs in pfSense")](https://www.youtube.com/watch?v=Te0Y9fvflks&t=181s)
-[![Master Windows Server 2019: A Beginner's Guide to Active Directory & User Management (Step-by-Step)](https://ytcards.demolab.com/?id=9OHsqIUh7Ss&title=Master+Windows+Server+2019:+A+Beginner's+Guide+to+Active+Directory+%26+User+Management+(Step-by-Step)&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=363 "Master Windows Server 2019: A Beginner's Guide to Active Directory & User Management (Step-by-Step)")](https://www.youtube.com/watch?v=9OHsqIUh7Ss)
+[![Master Windows Server 2019: A Beginner's Guide to Active Directory & User Management (Step-by-Step)](https://ytcards.demolab.com/?id=9OHsqIUh7Ss&title=Master+Windows+Server+2019%3A+A+Beginner%27s+Guide+to+Active+Directory+%26+User+Management+%28Step-by-Step%29&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=363)](https://youtu.be/9OHsqIUh7Ss)
 
 
 <!-- END YOUTUBE-CARDS -->
