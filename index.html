@@ -4,52 +4,108 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Christopher Cahall | Cybersecurity Enthusiast</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+            text-align: center;
+        }
+        h1, h3 {
+            margin: 20px 0;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            width: 90%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .youtube-card {
+            display: inline-block;
+            margin: 10px;
+            width: 250px;
+        }
+    </style>
 </head>
 <body>
-    <h1 align="center">Hi 👋, I'm Christopher Cahall</h1>
-    <h3 align="center">Cybersecurity Enthusiast | Aspiring SOC Analyst | Tech Innovator</h3>
-    
-    <img src="https://raw.githubusercontent.com/cahallchristopher/images/djangoweb/Blue%20And%20Yellow%20Modern%20Cybersecurity%20Specialist%20LinkedIn%20Banner.png" alt="Banner" style="width:100%;">
-    
-    <p>Fresh from the academic fields of cybersecurity, I am a budding professional with a robust foundational understanding of IT security, networking, and system administration. My journey in cybersecurity is fueled by a strong passion for technology and a keen interest in the evolving landscape of cyber threats.</p>
+    <div class="container">
+        <h1>Hi 👋, I'm Christopher Cahall</h1>
+        <h3>Cybersecurity Enthusiast | Aspiring SOC Analyst | Tech Innovator</h3>
+        
+        <img src="https://raw.githubusercontent.com/cahallchristopher/images/djangoweb/Blue%20And%20Yellow%20Modern%20Cybersecurity%20Specialist%20LinkedIn%20Banner.png" alt="Banner">
+        
+        <p>
+            Fresh from the academic fields of cybersecurity, I am a budding professional with a robust foundational understanding of IT security, networking, and system administration. My journey in cybersecurity is fueled by a strong passion for technology and a keen interest in the evolving landscape of cyber threats.
+        </p>
 
-    <h2>🛠 Skills</h2>
-    <ul>
-        <li><b>Cloud Platforms:</b> Azure, AWS</li>
-        <li><b>Operating Systems:</b> Windows, Linux</li>
-        <li><b>Programming:</b> Python, HTML5</li>
-        <li><b>Technologies:</b> Active Directory, Docker, MySQL</li>
-        <li><b>Other Tools:</b> Blender</li>
-    </ul>
+        <h2>🛠 Skills</h2>
+        <ul>
+            <li><b>Cloud Platforms:</b> Azure, AWS</li>
+            <li><b>Operating Systems:</b> Windows, Linux</li>
+            <li><b>Programming:</b> Python, HTML5</li>
+            <li><b>Technologies:</b> Active Directory, Docker, MySQL</li>
+            <li><b>Other Tools:</b> Blender</li>
+        </ul>
 
-    <h2>📺 Latest YouTube Videos</h2>
-    <!-- BEGIN YOUTUBE-CARDS -->
-    <a href="https://www.youtube.com/watch?v=Te0Y9fvflks&t=181s">
-        <img src="https://ytcards.demolab.com/?id=Te0Y9fvflks&title=Creating+VLANs+in+pfSense&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=363" alt="Creating VLANs in pfSense">
-    </a>
-    <a href="https://youtu.be/9OHsqIUh7Ss">
-        <img src="https://ytcards.demolab.com/?id=9OHsqIUh7Ss&title=Master+Windows+Server+2019%3A+A+Beginner%27s+Guide+to+Active+Directory+%26+User+Management+%28Step-by-Step%29&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=363" alt="Master Windows Server 2019: A Beginner's Guide to Active Directory & User Management">
-    </a>
-    <!-- END YOUTUBE-CARDS -->
+        <h2>📺 Latest YouTube Videos</h2>
+        <div class="youtube-card">
+            <a href="https://www.youtube.com/watch?v=Te0Y9fvflks" target="_blank">
+                <img src="https://ytcards.demolab.com/?id=Te0Y9fvflks&title=Creating+VLANs+in+pfSense&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=363" alt="Creating VLANs in pfSense">
+            </a>
+        </div>
+        <div class="youtube-card">
+            <a href="https://youtu.be/9OHsqIUh7Ss" target="_blank">
+                <img src="https://ytcards.demolab.com/?id=9OHsqIUh7Ss&title=Master+Windows+Server+2019%3A+A+Beginner%27s+Guide+to+Active+Directory+%26+User+Management&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=363" alt="Master Windows Server 2019: A Beginner's Guide to Active Directory & User Management">
+            </a>
+        </div>
 
-    <h2>🔍 Current Projects</h2>
-    <ul>
-        <li><a href="https://github.com/cahallchristopher/projectname">Master Windows Server 2019: Step-by-Step Active Directory & User Management Guide (Perfect for Beginners!)</a> - Brief description of what the project does.</li>
-    </ul>
+        <h2>🔍 Current Projects</h2>
+        <ul>
+            <li>
+                <a href="https://github.com/cahallchristopher/malware-lab" target="_blank">
+                    Malware Analysis Lab with pfSense
+                </a> - A guide to setting up a secure environment for analyzing malware.
+            </li>
+            <li>
+                <a href="https://github.com/cahallchristopher/windows-server-guide" target="_blank">
+                    Windows Server 2019 Guide
+                </a> - Step-by-step instructions for Active Directory management.
+            </li>
+        </ul>
 
-    <h2>🌱 I'm currently learning</h2>
-    <ul>
-        <li>Advanced network security protocols</li>
-        <li>Cloud architecture and security best practices in Azure</li>
-    </ul>
+        <h2>🌱 I'm currently learning</h2>
+        <ul>
+            <li>Advanced network security protocols</li>
+            <li>Cloud architecture and security best practices in Azure</li>
+        </ul>
 
-    <h2>📫 Connect with me</h2>
-    <ul>
-        <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/christophercahall">Your LinkedIn</a></li>
-        <li><b>Email:</b> ccahall32@gmail.com</li>
-    </ul>
+        <h2>📫 Connect with Me</h2>
+        <ul>
+            <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/christophercahall" target="_blank">Christopher Cahall</a></li>
+            <li><b>Email:</b> <a href="mailto:ccahall32@gmail.com">ccahall32@gmail.com</a></li>
+        </ul>
 
-    <h2>📊 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats">
+        <h2>📊 GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=cahallchristopher&show_icons=true&theme=radical" alt="Your GitHub Stats">
+    </div>
 </body>
 </html>
